@@ -1,3 +1,5 @@
+package behavioral.strategy.withoutpattern;
+
 public class PaymentService {
 
     public void processPayment(String method, double amount) {
